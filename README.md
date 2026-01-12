@@ -23,8 +23,3 @@ The project focuses on building a scalable frontend architecture, handling real-
 - **Charts & Visualization:** Chart.js / Recharts  
 - **Authentication:** (Optional) NextAuth / Custom Auth  
 - **APIs:** Market data APIs (simulated or real-time)
-
----
-
-## 📂 Project Structure
-
